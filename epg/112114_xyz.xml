@@ -58926,6 +58926,9 @@
 	<programme channel="newtv超级电视剧" start="20260516205100 +0800" stop="20260516213700 +0800">
 		<title lang="zh">01_叛逆者</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260516213700 +0800" stop="20260516221800 +0800">
+		<title lang="zh">02_叛逆者</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
