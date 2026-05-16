@@ -3,6 +3,7 @@ name: update schedule
 on:
   schedule:
     - cron: "0 */2 * * *"
+  workflow_dispatch:   # <--- 就是加这一行，冒号后面什么都不用写，和 schedule 对齐
 
 jobs:
   build:
